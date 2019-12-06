@@ -2,7 +2,7 @@
 
 ## WarCardGame builded with SwiftUI
 
-#### I developed an WarCard Game using SwiftUI that counts which card is greater than the other.
+#### I developed a WarCard Game using SwiftUI that counts which card is greater than the other.
 
 ![Preview](Assets/WarCardGame.gif)
 
